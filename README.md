@@ -3,7 +3,7 @@
 ## Le client
 
 Laeken découverte est une association qui a pour objectif de faire découvrir à ses habitants et à tout visiteur l'extraordinaire diversité et richesse du patrimoine de Laeken.
-[http://www.laekendecouverte.be] (http://www.laekendecouverte.be/) Voici le lien du site.
+[http://www.laekendecouverte.be](http://www.laekendecouverte.be/) Voici le lien du site.
 Comme nous pouvons le constater, le design et l'ergonomie du site n'est plus à jour.
 
 ## Les changements
