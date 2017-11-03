@@ -44,3 +44,8 @@ Nous pourrions afficher les logos des différents sponsors.
 ### Contact
 
 Pour terminer, un formulaire de contact.
+
+
+## Outils utilisés
+
+J'ai utilisé un template qui se sert de Html/CSS mais aussi bootstrap, JQuery et PHP.
